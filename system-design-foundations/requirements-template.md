@@ -1,5 +1,5 @@
 # Requirements Template
-
+- **Swiggy** : Create a document stating functional and non-functional requirement for food-delivery app like swiggy.
 ## Users
 
 ### Primary Users
@@ -141,3 +141,4 @@
 - [ ] Order placement success rate > 99.5%
 - [ ] Payment success rate > 99.8%
 - [ ] System cost per order < $0.50
+ 
